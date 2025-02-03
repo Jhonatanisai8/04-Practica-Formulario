@@ -1,0 +1,14 @@
+body{
+    background-color: #465775;
+    margin: 0;
+}
+
+form{
+    background-color: #EF6F6C;
+    padding: 20px 0;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 3em;
+    box-shadow: 0 0 45px #fff9;
+    border-radius: 8px;
+}
