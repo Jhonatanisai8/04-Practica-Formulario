@@ -12,3 +12,17 @@ form{
     box-shadow: 0 0 45px #fff9;
     border-radius: 8px;
 }
+
+.form-input{
+    padding: 6px 10px;
+}
+
+input{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 6px 15px;
+    border: none;
+    letter-spacing: 0.1em;
+    margin-left: 50%;
+    margin-right: 50%;
+}
